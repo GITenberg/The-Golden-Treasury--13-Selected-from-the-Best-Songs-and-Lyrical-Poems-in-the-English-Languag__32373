@@ -1,0 +1,30 @@
+_repo: The-Golden-Treasury--13-Selected-from-the-Best-Songs-and-Lyrical-Poems-in-the-English-Languag__32373
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Palgrave, Francis Turner
+    alias: Palgrave, Francis T.
+    birthdate: 1824
+    deathdate: 1897
+    gutenberg_agent_id: '555'
+    url: http://www.gutenberg.org/2009/agents/555
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Turner_Palgrave
+description: ''
+gutenberg_issued: '2010-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32373'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Songs, English -- Texts'
+- !lcsh 'English poetry'
+- !lcc 'PR'
+title: "The Golden Treasury\r\nSelected from the Best Songs and Lyrical Poems in the\
+  \ English Language and arranged with Notes"
+url: http://www.gutenberg.org/ebooks/32373
