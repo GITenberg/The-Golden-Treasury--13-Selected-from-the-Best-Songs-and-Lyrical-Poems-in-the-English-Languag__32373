@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/555
     wikipedia: http://en.wikipedia.org/wiki/Francis_Turner_Palgrave
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32373#The-Golden-Treasury--13-Selected-from-the-Best-Songs-and-Lyrical-Poems-in-the-English-Languag_
 gutenberg_issued: '2010-05-14'
 gutenberg_type: Text
 identifiers:
